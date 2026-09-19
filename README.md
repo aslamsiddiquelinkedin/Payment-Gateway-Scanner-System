@@ -1,4 +1,4 @@
-Payment Gateway Scanner System — Process Flow
+<b> Payment Gateway Scanner System — Process Flow </b>
 
 This payment gateway scanner system automates QR code transaction management. When a QR code is added, the system automatically begins processing transactions against it. Once the transaction amount reaches the predefined maximum limit, the QR status is automatically updated to Settled.
 
